@@ -40,3 +40,12 @@ We want to see a page that lists any known, or suspected, financial interests of
 1. List of businesses.
 1. List of any officials that have been blackmailed by suspect.
 1. List of any money laundering businesses. 
+
+## (If you have 5 team members) Travel Report
+
+We want to see a report of known travel locations for the suspect. It should contain the following components.
+
+1. List of airports visited.
+1. List of bus terminals visited.
+1. List of cities/villages visited.
+1. Any rental companies known to be used by the suspect.
