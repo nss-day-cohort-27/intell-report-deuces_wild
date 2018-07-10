@@ -1,0 +1,26 @@
+
+.flex-container {
+    display: flex;
+    display: -webkit-flex;
+    width: 100%;
+
+}
+
+.flex-item {
+
+    background-color: rgb(105, 208, 255);
+    width: 30%;
+    margin: 1em;
+    text-align: center;
+
+}
+
+p{
+    color: red;
+    padding:10px;
+}
+.img-hero{
+    padding-top: 10px;
+}
+
+
