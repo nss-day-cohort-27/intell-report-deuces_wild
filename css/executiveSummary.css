@@ -15,8 +15,42 @@ html{
 }
 h1 {
     font-size: 3em;
-    background-color: blue;
+    color: red;
+    text-align: center;
 }
+ nav a:hover {
+    color: white;
+ }
+ ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.title {
+float: left;
+font-weight: bold;
+border: lightblue;
+font-size: 2em;
+color: darkblue
+
+    
+    
+
+
+
+
+
+}
+
+
+
+li a {
+float: right;
+    display: block;
+    padding: 8px;
+    color: red;
+    font-weight: bold;
 
 .list-items {
     color: antiquewhite;
@@ -34,4 +68,5 @@ footer {
     color: white;
     text-align: center;
     justify-content: center;
+
 }
