@@ -38,4 +38,45 @@ html{
 }
 
    
+nav a:hover {
+    color: white;
+ }
+ ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.title {
+float: left;
+font-weight: bold;
+border: lightblue;
+font-size: 2em;
+color: darkblue
+}
 
+li a {
+float: right;
+    display: block;
+    padding: 8px;
+    color: red;
+    font-weight: bold;
+}
+.list-items {
+    color: antiquewhite;
+    font-size: 2em;
+    justify-items: left;
+}
+
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    color: white;
+    text-align: center;
+    justify-content: center;
+
+}
