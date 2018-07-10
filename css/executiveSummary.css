@@ -34,6 +34,7 @@ border: lightblue;
 font-size: 2em;
 color: darkblue
 }
+
 li a {
     float: right;
        display: block;
@@ -41,6 +42,7 @@ li a {
        color: red;
        font-weight: bold;
     }
+
 
 footer {
     position: fixed;
