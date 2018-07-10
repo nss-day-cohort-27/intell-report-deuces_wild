@@ -5,11 +5,11 @@ body {
 
 h1 {
     font-size: 3em;
-    background-color: blue;
 }
 
 
 .rapSheetDiv {
+    text-align: center;
     border: 2px;
     background: #000, .3;
     color: white;
@@ -17,7 +17,7 @@ h1 {
 }
 .rapSheetDiv ul {
     font-size: 30px;
-    
+    padding: 5px;
 }
 .rapSheetDiv ul li {
     font-size: 20px;
@@ -80,3 +80,17 @@ footer {
     justify-content: center;
 
 }
+body::after {
+    content: "";
+    background: url(../img/policeCarBackground.jpg);
+    opacity: 0.5;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;   
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;  
+  }
