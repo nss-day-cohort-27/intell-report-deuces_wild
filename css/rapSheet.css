@@ -8,3 +8,31 @@ h1 {
     background-color: blue;
 }
 
+
+.rapSheetDiv {
+    border: 2px;
+    background: #000, .3;
+    color: white;
+    
+}
+.rapSheetDiv ul {
+    font-size: 30px;
+    
+}
+.rapSheetDiv ul li {
+    font-size: 20px;
+}
+body {
+    
+    /* background-position: center; */
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    
+   
+    
+}
+html{
+    height:100%;
+}
