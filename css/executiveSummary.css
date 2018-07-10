@@ -1,16 +1,37 @@
 body {
-    background-color: gray;
+    
+    /* background-position: center; */
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    
+   
     
 }
 
+html{
+    height:100%;
+}
 h1 {
     font-size: 3em;
     background-color: blue;
 }
 
+.list-items {
+    color: antiquewhite;
+    font-size: 2em;
+    justify-items: left;
+}
+
+
 footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    color: white;
     text-align: center;
     justify-content: center;
-    background-color: antiquewhite;
-
 }
