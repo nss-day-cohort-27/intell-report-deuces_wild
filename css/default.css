@@ -1,0 +1,15 @@
+.test {
+    font-size: 1.3em;
+}
+#bold {
+    font-size: 1.3em;
+}
+
+.image {
+    
+    justify-content: center;
+    padding: 25px;
+    margin: 0 150px 0 150px;
+    display: flex;
+    align-content: center;
+}
