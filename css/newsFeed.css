@@ -1,0 +1,54 @@
+/* body{
+    background-color:blue;
+} */
+
+
+
+.flex-container {
+    display: flex;
+    /* display: -webkit-flex; */
+    width: 100%;
+
+ }
+ 
+ .flex-item {
+    background-color:lightblue;
+    width: 25%;
+    margin: 1em;
+    text-align:center;
+ }
+ 
+ 
+ .Highlights{
+     float:left;
+     display: inline;
+     color:darkblue;
+     font-size: 1em;
+     
+
+ }
+ a{
+     /* color: coral; */
+     font-weight: bold;
+ }
+
+ .title{
+
+    font-size: 2em;
+    font-weight: bold;
+ }
+ 
+.ciriminal {
+    float: center;
+    margin: 10px auto;
+    overflow:hidden;
+    width: 209px;
+    height: 230px;
+
+}
+   
+
+nav a:hover {
+    color: white;
+    
+ }
